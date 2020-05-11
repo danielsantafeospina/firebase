@@ -34,6 +34,12 @@ Adjunto imagen de firebase borrando un dato.
 
 ![Imagen5](https://user-images.githubusercontent.com/61298481/81518529-f43c5100-9303-11ea-8dc6-c8f3448b59d0.png)
 
+Adjunto imagen de jsfiddle con el dato borrado de firebase
+
+![Imagen6](https://user-images.githubusercontent.com/61298481/81518522-f1d9f700-9303-11ea-963f-1e4243d176ce.png)
+
+
+
 
 
 
