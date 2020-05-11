@@ -23,6 +23,13 @@ Adjunto imagen de jsfiddle agregando datos.
 
 ![Imagen3](https://user-images.githubusercontent.com/61298481/81518526-f30b2400-9303-11ea-84a1-3e51ecf9afaa.png)
 
+Agrego imagen de firebase con los datos agregados.
+
+
+
+![Imagen4](https://user-images.githubusercontent.com/61298481/81518527-f43c5100-9303-11ea-81d1-2d83496d3169.png)
+
+
 
 
 
