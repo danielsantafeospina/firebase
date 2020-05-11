@@ -5,7 +5,7 @@ vamos a realizar el trabajo siguiendo los pasos realizados en clase y con el vid
 
 vamos a crear la base de datos en firebase y vamos a crear el codigo en jsfiddle.
 
-Adjunto el pantallazo de base de datos en firebase
+Adjunto el pantallazo de base de datos en firebase.
 
 
-Adjunto pantallazo del codigo realizado en jsfiddle
+Adjunto pantallazo del codigo realizado en jsfiddle.
