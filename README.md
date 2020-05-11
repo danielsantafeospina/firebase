@@ -29,6 +29,11 @@ Agrego imagen de firebase con los datos agregados.
 
 ![Imagen4](https://user-images.githubusercontent.com/61298481/81518527-f43c5100-9303-11ea-81d1-2d83496d3169.png)
 
+Adjunto imagen de firebase borrando un dato.
+
+
+![Imagen5](https://user-images.githubusercontent.com/61298481/81518529-f43c5100-9303-11ea-8dc6-c8f3448b59d0.png)
+
 
 
 
