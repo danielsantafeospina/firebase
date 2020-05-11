@@ -18,6 +18,8 @@ Adjunto pantallazo del codigo realizado en jsfiddle.
 
 ![Imagen2](https://user-images.githubusercontent.com/61298481/81518277-2b5e3280-9303-11ea-9b27-8d0fb0661f7d.png)
 
+Adjunto imagen de jsfiddle agregando datos.
+
 
 
 
