@@ -7,6 +7,10 @@ vamos a crear la base de datos en firebase y vamos a crear el codigo en jsfiddle
 
 Adjunto el pantallazo de base de datos en firebase.
 
+ESTE ES EL LIN DE JS FIDDLE
+
+https://jsfiddle.net/Danielsantafeospina341911515/dkjnhxL9/124/
+
 
 
 
